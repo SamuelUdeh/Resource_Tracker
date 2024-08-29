@@ -1,12 +1,12 @@
 #!/bin/bash
 
-##############
+###############
 # Author: Samuel
 # Date: August 29, 2024
 # Version: v1
 #
 # This Script will report the AWS Resource Usage
-##############
+###############
 #
 set -x
 # AWS S3
